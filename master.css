@@ -1,0 +1,14 @@
+.text-primary {
+    color: #0E4C92 !important;
+  }
+  .text-secondary{
+    color: #ff971e !important;
+  }
+  @font-face{
+    font-family: Roboto;
+    src: url(fonts/Roboto-Regular.ttf);
+  }
+  .body{
+    font-family: 'Roboto', sans-serif;
+  }
+
